@@ -15,11 +15,9 @@
 ---
 
 ### 💡 About Me
-Seorang freelancer **Lighting Engineer** dan **Visual Videotron** dengan pengalaman hampir 8 tahun di industri kreatif. Saat ini sedang menempuh studi di **Sekolah Tinggi Multi Media (STMM) Yogyakarta**.
+Seorang freelancer **Lighting Engineer** dan **Visual Videotron** dengan pengalaman hampir 8 tahun di industri kreatif, yang saat ini sedang menempuh studi di **Sekolah Tinggi Multi Media (STMM) Yogyakarta**.
 
-Saya percaya bahwa teknologi dan seni adalah dua frekuensi yang harus selaras. Proyek saya berfokus pada bagaimana koding dapat mempermudah alur kerja kreatif, mulai dari sistem dokumentasi kolektif musik hingga integrasi hardware lighting.
-
-Koding atau teknologi AI adalah hobi yang sering saya lakukan selama waktu luang.
+Saya percaya bahwa teknologi dan seni adalah dua frekuensi yang harus selaras. Bagi saya, **coding, eksplorasi teknologi AI, dan pengembangan website adalah hobi di waktu luang** yang saya manfaatkan untuk mempermudah alur kerja kreatif—mulai dari sistem dokumentasi kolektif musik hingga eksperimen integrasi hardware lighting
 
 ---
 
