@@ -3,7 +3,7 @@
 # 🔊 Yohanes Prass
 ### "Defining Frequencies through Light and Code"
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Lighting+Engineer;Visual+Videotron;Vanilla+JS+Developer;Creative+Coding;STMM+Yogyakarta" alt="Yohanes Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Lighting+Engineer;Visual+Videotron;Creative+Coding;Lazzy+Coder" alt="Yohanes Typing SVG" />
 <br>
 
 [![Experience - 8 Years](https://img.shields.io/badge/Experience-8_Years-blue?style=for-the-badge&logo=work)](https://www.instagram.com/yohanes.prass/)
